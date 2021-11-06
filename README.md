@@ -1,2 +1,2 @@
 # Calculator
-Yor Calculator
+Your Calculator
